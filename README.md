@@ -21,7 +21,7 @@ Hi there, I'm Tanya 👋
   Frontend Developer with a strong foundation in building responsive web applications and user-friendly interfaces using TypeScript, React, and Next.js. Proven experience in API integration, troubleshooting UI issues, and enhancing application performance. Skilled in collaborating with cross-functional teams to deliver high-quality UX/UI solutions.
   
 - 🌱 I’m looking for a job as a front-end developer.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tatiana-vanzidler-843605252/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tatiana-wansiedler/)
 
 
 #### My tech stack
